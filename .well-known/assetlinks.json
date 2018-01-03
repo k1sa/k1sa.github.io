@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ru.quest_city.ruz_db",
+    "sha256_cert_fingerprints":
+    ["E6:CA:D6:74:92:E1:58:F5:58:F6:E3:1E:ED:3A:78:28:3B:2D:33:C3:E8:55:53:B3:29:9B:C0:00:49:7F:93:59"]
+  }
+}]
